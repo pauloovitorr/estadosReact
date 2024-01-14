@@ -1,0 +1,17 @@
+.color{
+    margin-top: 80px;
+}
+
+.color input{
+    margin-left: 30px;
+}
+
+.local{
+    width: 40%;
+    height: 250px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}

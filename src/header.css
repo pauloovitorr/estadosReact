@@ -1,0 +1,16 @@
+header{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+
+
+button{
+    border: 2px solid transparent;
+    border-radius: 5px;
+    padding: 3px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: white;
+}
